@@ -1,0 +1,15 @@
+html, body {
+  background-color: black;
+}
+
+.App {
+  margin: 2rem;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'VT323', monospace;
+  color: white;
+  font-size: 4rem;
+  margin: 0;
+}
